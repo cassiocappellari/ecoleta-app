@@ -27,10 +27,12 @@
 
 The project was developed using this technologies:
 
+**Database:**
+- [SQLite3](https://www.sqlite.org/version3.html)
+
 **Back-end:**
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [SQLite3](https://www.sqlite.org/version3.html)
 
 **Front-end:**
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
