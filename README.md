@@ -6,6 +6,8 @@
     <img src="./public/assets/gif-apt.gif">
 </h2>
 
+Status:
+
 ---
 
 ## 📋 Index
