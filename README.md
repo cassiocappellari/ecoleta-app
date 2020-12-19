@@ -10,6 +10,18 @@
 	Status: finished :heavy_check_mark:
 </h3>
 
+<p align="center">
+<a href="https://github.com/cassiocappellari/ecoleta-app/commits/master">
+	<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/cassiocappellari/ecoleta-app">
+</a>
+    
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+<a href="https://github.com/cassiocappellari/ecoleta-app/stargazers">
+	<img alt="Stargazers" src="https://img.shields.io/github/stars/cassiocappellari/ecoleta-app?style=social">
+</a>
+</p>
+
 ## 📋 Index
 
 - [About](#-about)
