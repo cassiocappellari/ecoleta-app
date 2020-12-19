@@ -55,7 +55,7 @@ The project was developed using this technologies:
 ```bash
 # Clone this repository
 
-$ git https://github.com/cassiocappellari/ecoleta-app
+$ git clone https://github.com/cassiocappellari/ecoleta-app
 
 # Install the dependencies
 
