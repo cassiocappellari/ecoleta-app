@@ -10,8 +10,6 @@
 	Status: finished :heavy_check_mark:
 </h3>
 
----
-
 ## 📋 Index
 
 - [About](#-about)
@@ -19,13 +17,9 @@
 - [How To Use](#-how-to-use)
 - [Author](#-author)
 
----
-
 ## ♻ About
 
 **Ecoleta** is a marketplace that helps people to find and register recycling points efficiently. The project is a **fullstack application** (backend and frontend) developed during the Next Level Week, by [Rocketseat](https://rocketseat.com.br/).
-
----
 
 ## 🤖 Technologies
 
@@ -44,8 +38,6 @@ The project was developed using this technologies:
 - [JavaScript](https://js.org/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
----
-
 ## ⚙ How to Use
 
 ```bash
@@ -62,8 +54,6 @@ $ npm install
 $ npm start
 
 ```
-
----
 
 ## 👨‍🚀 Author
 
