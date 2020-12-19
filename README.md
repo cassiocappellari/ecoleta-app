@@ -6,7 +6,9 @@
     <img src="./public/assets/gif-apt.gif">
 </h2>
 
-Status:
+<h3 align="center"> 
+	 Status: finished :heavy_check_mark:
+</h3>
 
 ---
 
