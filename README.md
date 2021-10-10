@@ -32,7 +32,7 @@
 
 ## ♻ About
 
-**Ecoleta** is a marketplace that helps people to find and register recycling points efficiently. The project is a **fullstack application** (backend and frontend) developed during the Next Level Week, by [Rocketseat](https://rocketseat.com.br/).
+**Ecoleta** is a marketplace that helps people to find and register recycling points efficiently. The project is a **full stack application** (back-end and front-end) developed during the Next Level Week, by [Rocketseat](https://rocketseat.com.br/).
 
 ## 🤖 Technologies
 
